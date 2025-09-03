@@ -1,5 +1,6 @@
 # tetris
 day one learning laravel
+writing code is very hard
 A new Flutter project.
 
 ## Getting Started
