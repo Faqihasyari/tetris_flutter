@@ -1,7 +1,7 @@
 # tetris
 
 A new Flutter project.
-yes this is not my project i'm take from github
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
