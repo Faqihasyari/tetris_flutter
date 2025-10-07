@@ -3,7 +3,8 @@ my
 A new Flutter project.
 i think this project for showcase
 
-asdasdas
+a modern remake of the legendary puzzle classic!
+This project was built as a fun way to explore game development, improve logic, and practice programming skills using Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
