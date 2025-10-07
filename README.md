@@ -5,6 +5,8 @@ i think this project for showcase
 
 a modern remake of the legendary puzzle classic!
 This project was built as a fun way to explore game development, improve logic, and practice programming skills using Flutter
+
+Tetris is a timeless puzzle game where players must arrange falling blocks (called Tetrominoes) to form complete lines.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
