@@ -19,3 +19,7 @@ Clean and minimal UI
 Dart, Flutter
 
 Fire engine
+
+🎯 Purpose
+
+This project was created as part of a learning exercise in game development and algorithmic logic — particularly focusing on grid-based collision detection and shape management.
