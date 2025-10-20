@@ -9,7 +9,6 @@ Score tracking system
 Clean and minimal UI
 
 🛠️ Built With
-
 Dart, Flutter
 
 Fire engine
