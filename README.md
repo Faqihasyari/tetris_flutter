@@ -9,9 +9,7 @@ Classic Tetris gameplay experience
 Smooth block movement and rotation
 
 Increasing difficulty as you progress
-
 Score tracking system
-
 Clean and minimal UI
 
 🛠️ Built With
