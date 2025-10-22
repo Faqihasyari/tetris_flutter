@@ -1,18 +1,17 @@
-🎮 Tetris Game
-A simple and fun Tetris Game built using Flutter to demonstrate classic gameplay mechanics, grid-based movement, and real-time interaction.
+# 🧩 Flutter Tetris Game
 
-🧩 Features
-Classic Tetris gameplay experience
-Smooth block movement and rotation
-Increasing difficulty as you progress
-Score tracking system
-Clean and minimal UI
+Proyek ini adalah implementasi game **Tetris klasik** menggunakan **Flutter**, dengan konsep **Provider State Management** dan **TickerProviderStateMixin** untuk animasi blok.  
+Dibuat sebagai mini project pembelajaran logika game dan animasi di Flutter.
 
-🛠️ Built With
-Dart, Flutter
+---
 
-Fire engine
 
-🎯 Purpose
+## 🚀 Fitur Utama
+- Gameplay Tetris klasik (geser, putar, jatuh otomatis)
+- Animasi lembut menggunakan `TickerProvider`
+- Tampilan responsif (Next Piece, Score, Level)
+- Pemisahan view: `LeftView`, `CenterView`, `RightView`
+- Menggunakan `Provider` untuk manajemen state
+- Mode pause dan restart game
 
-This project was created as part of a learning exercise in game development and algorithmic logic — particularly focusing on grid-based collision detection and shape management.
+---
