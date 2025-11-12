@@ -26,11 +26,3 @@ Ini terjadi karena **`Board` membutuhkan `TickerProvider`**, tapi `TetrisView` a
 Solusinya adalah membuat widget pembungkus baru yang bersifat **Stateful**, agar bisa memberikan `TickerProvider`.
 
 ---
-
-## ✅ Solusi Implementasi
-
-      value: board,
-      child: const TetrisView(),
-    );
-  }
-}
