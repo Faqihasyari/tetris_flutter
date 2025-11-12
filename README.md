@@ -13,6 +13,7 @@ Dibuat sebagai mini project pembelajaran logika game dan animasi di Flutter.
 - Pemisahan view: `LeftView`, `CenterView`, `RightView`
 - Menggunakan `Provider` untuk manajemen state
 - Mode pause dan restart game
+- Namun sayangnya saat aplikasi dijalankan langsung menjalankan gamenya
 
 ---
 
