@@ -24,5 +24,5 @@ Error:
 
 Ini terjadi karena **`Board` membutuhkan `TickerProvider`**, tapi `TetrisView` adalah `StatelessWidget`.  
 Solusinya adalah membuat widget pembungkus baru yang bersifat **Stateful**, agar bisa memberikan `TickerProvider`.
-
+Banyak masalah yang terjadi saat saya mengimplementasikan perubahan pada saat saya menjalankan git clone
 ---
